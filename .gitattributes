@@ -1,5 +1,4 @@
 s1_files/s1/s1.txt filter=lfs diff=lfs merge=lfs -text
-
 *.md filter=lfs diff=lfs merge=lfs -text
 *.html filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
